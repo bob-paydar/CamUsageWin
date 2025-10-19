@@ -1,5 +1,5 @@
 # Camera Usage Viewer (Win32)
-
+![screenshot](https://github.com/bob-paydar/CamUsageWin/blob/main/Screenshot.png)
 A lightweight **Windows Desktop (Win32)** application written in C++ that shows which applications are using (or recently used) your laptop webcam.  
 
 The program reads Windows’ privacy usage registry (`CapabilityAccessManager → ConsentStore → webcam`) and displays a live list of applications with their usage status.
